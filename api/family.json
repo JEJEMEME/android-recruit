@@ -1,0 +1,22 @@
+{
+  "name": "파파",
+  "profile_image": null,
+  "type": "P",
+  "members": [
+    {
+      "name": "마마",
+      "profile_image": null,
+      "type": "M"
+    },
+    {
+      "name": "할미",
+      "profile_image": null,
+      "type": "MGM"
+    },
+    {
+      "name": "선생님",
+      "profile_image": null,
+      "type": "E"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "https://kr.object.ncloudstorage.com/testdbduploads/ticon/1wt9645o-pcmr-blc4-l1be-sbf3pe14gwoy.png"
+    },
+    {
+      "id": 2,
+      "image": "https://kr.object.ncloudstorage.com/testdbduploads/ticon/famqj1g5-576n-f4ef-eoo1-ssggqeuuhzzk.png"
+    },
+    {
+      "id": 3,
+      "image": "https://kr.object.ncloudstorage.com/testdbduploads/ticon/ew2cwivm-8vce-hxhl-b9jb-5v7jv2p2qtxn.png"
+    },
+    {
+      "id": 4,
+      "image": "https://kr.object.ncloudstorage.com/testdbduploads/ticon/x53ehybu-zvju-10e4-7shi-hw9jzn39invd.png"
+    },
+    {
+      "id": 5,
+      "image": "https://kr.object.ncloudstorage.com/testdbduploads/ticon/0blxecz2-hcy2-v0mn-8xjy-mbssnsivl92e.png"
+    },
+    {
+      "id": 6,
+      "image": "https://kr.object.ncloudstorage.com//testdbduploads/ticon/nouievfz-bly0-6qz3-oynx-dq6q1jooy24o.png"
+    }
+  ],
+  "total_count": 6
+}
