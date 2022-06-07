@@ -33,7 +33,7 @@
             - M(엄마): foster_mom.png
             - P(아빠): foster_dad.png
             - MGM(할머니): foster_grandmother.png
-            - MGM(할머니): foster_grandmother.png
+            - MGP(할아버지): foster_grandfather.png
             - PGM(할머니): foster_grandmother.png
             - PGP(할아버지): foster_grandfather.png
             - E(랜선식구): foster_sitter.png
