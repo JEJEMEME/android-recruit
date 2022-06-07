@@ -8,7 +8,7 @@
 
 1. 해당 [repository](https://github.com/JEJEMEME/android-recruit)를 자신의 github에 fork 합니다.
 2. git clone 을 진행합니다.
-3. solution을 작성하여 push를 진행해주세요.
+3. solution을 작성 후 push를 진행해주세요.
 ---
 ## 요구사항
 - 아래와 같이 홈 탭을 구현해주세요.
@@ -17,9 +17,10 @@
     - ticons.json: B 영역
     - family.json: C 영역
 - 필요하신 이미지는 [resources](https://github.com/JEJEMEME/android-recruit/tree/main/resources)폴더에 있는 이미지들을 활용해주세요.
-- 하단 영역 및 세세한 디자인은 편하게 작업해주시면 됩니다.(디자인 작업에 시간을 쓰지 마세요.)
+- 하단 영역 및 세세한 디자인은 편하게 작업해주시면 됩니다.
 - Kotlin을 사용하여 코드를 작성해주세요.
-- 질문이 있으실 경우 help@jejememe.com 으로 메일을 보내주세요.
+- 
+- 질문이 있으실 경우 zach@jejememe.com 으로 메일을 보내주세요.
 ---
 ### 영역별 추가 설명
 <img src="screenshot/home/000.jpg" width="400"> <img src="screenshot/home/001.jpg" width="400">  
