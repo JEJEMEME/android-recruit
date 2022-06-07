@@ -22,7 +22,7 @@
 - 질문이 있으실 경우 help@jejememe.com 으로 메일을 보내주세요.
 ---
 ### 영역별 추가 설명
-<img src="screenshot/home/000.jpg" width="400">  
+<img src="screenshot/home/000.jpg" width="400"> <img src="screenshot/home/001.jpg" width="400">  
 
 - A영역
     - birthday와 오늘 사이의 기간을 표시해주세요
