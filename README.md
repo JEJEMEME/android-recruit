@@ -12,12 +12,12 @@
 ---
 ## 요구사항
 - 아래와 같이 홈 탭을 구현해주세요.
-- [api](https://github.com/JEJEMEME/android-recruit/api)폴더에 있는 데이터를 이용하여 화면을 구성해주세요.
+- [api](https://github.com/JEJEMEME/android-recruit/tree/main/api)폴더에 있는 데이터를 이용하여 화면을 구성해주세요.
     - baby.json: A,D 영역
     - ticons.json: B 영역
     - family.json: C 영역
-- 필요하신 이미지는 [resources](https://github.com/JEJEMEME/android-recruit/resources)폴더에 있는 이미지들을 활용해주세요.
-- 하단 영역 및 세세한 디자인은 편하게 작업해주시면 됩니다.
+- 필요하신 이미지는 [resources](https://github.com/JEJEMEME/android-recruit/tree/main/resources)폴더에 있는 이미지들을 활용해주세요.
+- 하단 영역 및 세세한 디자인은 편하게 작업해주시면 됩니다.(디자인 작업에 시간을 쓰지 마세요.)
 - Kotlin을 사용하여 코드를 작성해주세요.
 - 질문이 있으실 경우 help@jejememe.com 으로 메일을 보내주세요.
 ---
